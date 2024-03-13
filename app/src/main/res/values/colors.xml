@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F0F4F3</color>
+    <color name="statusbar">#50C2C9</color>
+    <color name="gray_1">#f28a8a</color>
+    <color name="gray_2">#808080</color>
+    <color name="gray_3">#8ac8ed</color>
+
+    <color name="red_1">#f76a6a</color>
+    <color name="white_gray">#dfdfdf</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#FDCF76</color>
+    <color name="shadowDialog">#79817C7C</color>
+    <color name="hongnhat">#FFEAE3</color>
+</resources>
